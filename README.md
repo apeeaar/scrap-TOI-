@@ -1,1 +1,1 @@
-Install BeautifulSoup,lxml package and then run.
+Install bs4,lxml package and then run.
