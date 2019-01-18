@@ -1,2 +1,1 @@
-# scrap-TOI-
-Scraping TOI
+Install BeautifulSoup,lxml package and then run.
